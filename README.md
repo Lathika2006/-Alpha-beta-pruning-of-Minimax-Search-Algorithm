@@ -215,7 +215,7 @@ if __name__ == "__main__":
     main()
 ```
 <h2>Output:</h2>
-<img width="1185" height="583" alt="image" src="https://github.com/user-attachments/assets/aaff8662-6e57-41fb-abc9-3c6a08b0b4ff" />
+<img width="1365" height="571" alt="image" src="https://github.com/user-attachments/assets/90e3d1e9-6400-4c0f-97e2-a01a2d6b8a2b" />
 
 
 ### Result:
